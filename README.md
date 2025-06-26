@@ -44,8 +44,8 @@ This repository contains all deliverables related to the Throttle X business pla
 
 For collaboration, feedback, or investment inquiries:
 
-📧 aayush.jhawar05@gmail.com  
-🔗 [LinkedIn][(https://www.linkedin.com/in/aayushjhawar05/)]
+📧 [aayush.jhawar05@gmail.com](mailto:aayush.jhawar05@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aayushjhawar05/)
 
 ---
 
